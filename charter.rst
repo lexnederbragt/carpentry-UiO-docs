@@ -1,4 +1,4 @@
-Carpentry@UiO Chart
+Carpentry@UiO Charter
 ====================
 
 Organization
