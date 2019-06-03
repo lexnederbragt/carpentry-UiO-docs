@@ -11,7 +11,7 @@ Welcome to Carpentry@UiO's documentation!
    :caption: Contents:
 
    intro
-   chart
+   charter
 
 
 Indices and tables
