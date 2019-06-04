@@ -3,20 +3,20 @@ Vision/Mission Statement
 =========================
 
 `Carpentry@UiO
-<https://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/>`_ is the UiO local relay of the international Carpentries organisation. 
+<https://www.uio.no/english/for-employees/support/research/research-data/training/carpentry/>`_ is the UiO local relay of the international `Carpentries <https://carpentries.org>`_ organisation. 
 
-We offers to PhD students, researchers and others at UiO, and beyond:
+We are a group of volunteers from the University of Oslo and beyond. With support from the University of Oslo Library, we offer to PhD students, researchers and others at UiO, and beyond:
 
-- foundational coding and data science skills workshops
-- study Group events to dedicated to open and reproducible scienceshare knowledge, re-enforce learning or discuss new subjects for future workshops/lesson development
-- educational development and networking opportunities with the possibility to become Certified Carpentry instructor and/or Carpentry Instructor Trainer
+- foundational coding and data science skills workshops from `Software Carpentry <http://software-carpentry.org/lessons>`_ and `Data Carpentry <http://datacarpentry.org/lessons>`_
+- `Study Group events <https://uio-carpentry.github.io/studyGroup>`_ to dedicated to open and reproducible science, knowledge sharing, re-enforcing learning or discussing new subjects for future workshops/lesson development
+- educational development and networking opportunities with the possibility to become Certified Carpentries instructor and/or Carpentries Instructor Trainer
 
+Our activity and community is open to any member of the UiO community including staff, faculty, and students, paid, and volunteer. We believe the Carpentries’ teaching methods are efficient and can speed up take up toward the adoption of Open Science at UiO. 
 
+Check out the `Carpentry@UiO Charter <charter.rst>`_.
 
 Who are we?
 =============
-
-We believe the Carpentries’ teaching methods are efficient and can speed up take up toward the adoption of Open Science at UiO. 
 
 Carpentry@UiO board (when elected)
 -----------------------------------
@@ -32,6 +32,12 @@ does not differentiate Oslo from other cities (NORWAY only)
 
 Here we should make sure we acknowledge member participation one way or another.
 
+What do we do?
+=============
+
+Our primary activity is organizing and teaching hands-on foudnational coding and data science skills workshops using the materials and practices of the Data and Software Carpentry organizations. The club will also provide educational development and networking opportunities for instructors. To maintain transparency, board meeting notes, workshop schedules, and all other club activities will be posted publicly on the web (when possible) at the Carpentries@UiO website.
+
+
 Code of conduct
 =================
 
@@ -39,6 +45,7 @@ We follow the `Carpentries’ Code of Conduct
 <https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html>`_ to provide an inclusive and supportive environment for our learners and our members. Any violation of our Code of Conduct should
 be reported to ??? where it will be handled as quickly as possible and will remain confidential.
 
+TODO: reporting guidelines
 
 Contributing
 =============
